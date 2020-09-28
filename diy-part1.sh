@@ -27,3 +27,6 @@ svn co https://github.com/coolsnowwolf/lede/trunk/package/lean/v2ray package/diy
 svn co https://github.com/coolsnowwolf/lede/trunk/package/lean/trojan package/diy/trojan
 svn co https://github.com/coolsnowwolf/lede/trunk/package/lean/ipt2socks package/diy/ipt2socks
 svn co https://github.com/coolsnowwolf/lede/trunk/package/lean/redsocks2 package/diy/redsocks2
+#
+svn co https://github.com/xiaorouji/openwrt-package/trunk/lienol/luci-app-passwall package/lean/luci-app-passwall  #passwall出国软件
+svn co https://github.com/xiaorouji/openwrt-package/trunk/package package/lean/package  #passwall出国软件配套
